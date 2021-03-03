@@ -23,7 +23,7 @@
     "mysql": "2.15.0",
     "nconf": "^0.10.0",
     "prompt": "1.0.0",
-    "pug": "2.0.1",
+    "pug": "3.0.1",
     "querystring": "^0.2.0",
     "safe-buffer": "5.1.1",
     "uglify-js": "3.3.12"
