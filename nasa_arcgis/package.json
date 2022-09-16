@@ -5,7 +5,7 @@
   "homepage": "https://CleanWaterAI.github.io/",
   "dependencies": {
     "ajv": "^6.5.0",
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
     "mobx": "^4.3.0",
     "mobx-react": "^5.1.2",
